@@ -25,5 +25,13 @@ The color schme for regions, income groups, and lending groups is below:
 -  South Asia = ![#e377c2](https://placehold.co/15x15/e377c2/e377c2.png) `#e377c2`
 
 
+### Income Groups
 
+- Low income = ![#fb8500](https://placehold.co/15x15/fb8500/fb8500.png) `#fb8500`
+
+- Lower middle income = ![#ffb703](https://placehold.co/15x15/ffb703/ffb703.png) `#ffb703`
+
+- Upper middle income = ![#219ebc](https://placehold.co/15x15/219ebc/219ebc.png) `#219ebc`
+
+- High income = ![#023047](https://placehold.co/15x15/023047/023047.png) `#023047`
 
