@@ -35,3 +35,27 @@ The color schme for regions, income groups, and lending groups is below:
 
 - High income = ![#023047](https://placehold.co/15x15/023047/023047.png) `#023047`
 
+### World Bank Lending Groups
+
+- IDA = ![#f72585](https://placehold.co/15x15/f72585/f72585.png) `#f8333c`
+
+- Blend = ![#7209b7](https://placehold.co/15x15/7209b7/7209b7.png) `#fcab10`
+
+- IBRD = ![#3a0ca3](https://placehold.co/15x15/3a0ca3/3a0ca3.png) `#44af69`
+
+- Not classified = ![#4361ee](https://placehold.co/15x15/4361ee/4361ee.png) `#2b9eb3`
+
+### Gender
+
+- Male = ![#95a3df](https://placehold.co/15x15/95a3df/95a3df.png) `#95a3df`
+
+- Female = ![#ffbf24](https://placehold.co/15x15/ffbf24/ffbf24.png) `#ffbf24`
+
+- Other = ![#54b4b4](https://placehold.co/15x15/54b4b4/54b4b4.png) `#54b4b4`
+
+### Urban/Rural
+
+- Urban = ![#616ea4](https://placehold.co/15x15/616ea4/616ea4.png) `#616ea4`
+
+- Rural = ![#719950](https://placehold.co/15x15/719950/719950.png) `#719950`
+
