@@ -10,19 +10,19 @@ The color schme for regions, income groups, and lending groups is below:
 
 ### Regions
 
-- <font color=#1f77b4> North America </font> = #1f77b4
+- North America = ![#1f77b4](https://placehold.co/15x15/1f77b4/1f77b4.png) `#1f77b4`
 
-- <font color=#ff7f0e> Europe & Central Asia </font>  = #ff7f0e
+- Europe & Central Asia = ![#ff7f0e](https://placehold.co/15x15/ff7f0e/ff7f0e.png) `#ff7f0e`
 
-- <font color=#2ca02c> Sub-Saharan Africa </font>  = #2ca02c
+- Sub-Saharan Africa = ![#2ca02c](https://placehold.co/15x15/2ca02c/2ca02c.png) `#2ca02c`
 
-- <font color=#d62728> East Asia & Pacific </font>  = #d62728
+- East Asia & Pacific = ![#d62728](https://placehold.co/15x15/d62728/d62728.png) `#d62728`
 
-- <font color=#9467bd> Latin America & Caribbean </font>  = #9467bd
+- Latin America & Caribbean = ![#9467bd](https://placehold.co/15x15/9467bd/9467bd.png) `#9467bd`
 
-- <font color=#8c564b> Middle East & North Africa </font>  = #8c564b
+- Middle East & North Africa = ![#8c564b](https://placehold.co/15x15/8c564b/8c564b.png) `#8c564b`
 
-- <font color=#e377c2> South Asia </font>  = #e377c2
+-  South Asia = ![#e377c2](https://placehold.co/15x15/e377c2/e377c2.png) `#e377c2`
 
 
 
