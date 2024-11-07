@@ -4,9 +4,9 @@ This repo is a collection of packages for standardizing visualizations for the P
 
 The goal is to help produce a consistent look and feel for visualizations produced by the People Chief Economist Office and to reduce duplication of efforts in producing charts. This will help us to communicate our findings with more efficiency, consistency, and polish.
 
-## Color Schemes
+## Suggested Color Schemes
 
-The color schme for regions, income groups, and lending groups is below:
+The color schme for regions, income groups, lending, and other groups is below:
 
 ### Regions
 
