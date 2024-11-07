@@ -10,19 +10,19 @@ The color schme for regions, income groups, and lending groups is below:
 
 ### Regions
 
-- North America = #1f77b4
+- <font color=#1f77b4> North America </font> = #1f77b4
 
-- Europe & Central Asia = #ff7f0e
+- <font color=#ff7f0e> Europe & Central Asia </font>  = #ff7f0e
 
-- Sub-Saharan Africa = #2ca02c
+- <font color=#2ca02c> Sub-Saharan Africa </font>  = #2ca02c
 
-- East Asia & Pacific = #d62728
+- <font color=#d62728> East Asia & Pacific </font>  = #d62728
 
-- Latin America & Caribbean = #9467bd"
+- <font color=#9467bd> Latin America & Caribbean </font>  = #9467bd
 
-- Middle East & North Africa = #8c564b"
+- <font color=#8c564b> Middle East & North Africa </font>  = #8c564b
 
--  South Asia = #e377c2
+- <font color=#e377c2> South Asia </font>  = #e377c2
 
 
 
